@@ -1,6 +1,15 @@
 html, body {
   height: 100%;
   width: 100%;
+	text-align: center;
 }
 
 
+a{
+	text-decoration: none;
+}
+
+a, #lightblue{
+	color: #00d5ff;
+	
+}
